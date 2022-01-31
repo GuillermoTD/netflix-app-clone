@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap");
+@import "../pages/Login/_Login.scss";
+@import "../pages/Home/_Home.scss";
+* {
+  font-family: "Roboto", sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  transition: all 0.3s;
+  outline: none;
+}
+
+a {
+  text-decoration: none;
+}
+input {
+  outline: none;
+  border: none;
+}
+button {
+  border: none;
+}
